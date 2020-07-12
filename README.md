@@ -1,5 +1,5 @@
 # stockprediction
-Uses machine leaning to train models that predict profitable stocks 
+Uses machine learning to train models that predict profitable stocks 
 FINANCIAL STOCK INDICATORS
 
 Datasets
