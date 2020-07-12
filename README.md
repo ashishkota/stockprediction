@@ -15,7 +15,7 @@ stock price of the companies in the dataset have increased during 2019.
 
 We use Pandas, NumPy, SciKit Learn, Tensorflow, Keras, MatPlotLib libaries on python. 
 
-We the Stock_train.csv dataset to train algorithms with Cross Validation, select the best one with the hypeparameters properly calibrated and then apply the model to the Stock_test.csv in order to predict the class for all the stocks.
+We use Stock_train.csv dataset to train algorithms with Cross Validation, select the best one with the hypeparameters properly calibrated and then apply the model to the Stock_test.csv in order to predict the class for all the stocks.
 
 We used 6 different classification algorithms to train our model - 
   - Lasso Classification with Penalization
